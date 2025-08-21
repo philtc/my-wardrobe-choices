@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mywardrobechoices'
+    namespace 'com.chineeeasy.mywardrobechoices'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.mywardrobechoices"
+        applicationId "com.chineeeasy.mywardrobechoices"
         minSdk 24
         targetSdk 34
         versionCode 1

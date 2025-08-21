@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Long brown hair (positioned behind face) -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M55,35 Q75,25 95,30 Q105,25 125,30 Q145,35 150,55 Q148,75 145,95 Q140,120 130,145 Q120,170 110,185 Q100,200 90,185 Q80,170 70,145 Q60,120 55,95 Q52,75 50,55 Q50,35 55,35 Z" />
+    
+    <!-- Side hair strands (not covering face) -->
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M60,45 Q65,70 70,100 Q75,130 80,160" 
+        android:strokeWidth="2"
+        android:strokeColor="#654321" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M140,45 Q135,70 130,100 Q125,130 120,160" 
+        android:strokeWidth="2"
+        android:strokeColor="#654321" />
+    
+    <!-- Back hair flow -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M95,30 Q100,35 105,30 Q110,40 115,50 Q120,65 125,80 Q130,100 125,120 Q120,140 115,160 Q110,180 105,160 Q100,140 95,120 Q90,100 95,80 Q100,65 105,50 Q100,40 95,30 Z" />
+</vector>

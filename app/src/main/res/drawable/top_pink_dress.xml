@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style cute dress -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M75,125 Q100,120 125,125 Q132,145 135,165 Q138,185 140,205 Q120,215 100,215 Q80,215 60,205 Q62,185 65,165 Q68,145 75,125 Z" />
+    
+    <!-- Dress bow detail -->
+    <path
+        android:fillColor="#FF1493"
+        android:pathData="M90,135 Q95,130 100,135 Q105,130 110,135 Q105,145 100,140 Q95,145 90,135 Z" />
+    
+    <!-- Heart decoration -->
+    <path
+        android:fillColor="#FF1493"
+        android:pathData="M95,155 Q92,150 88,155 Q92,165 100,170 Q108,165 112,155 Q108,150 105,155 Q100,160 95,155 Z" />
+    
+    <!-- Puffy sleeves -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M60,130 Q50,135 48,150 Q52,160 65,155 Q70,145 60,130 Z" />
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M140,130 Q150,135 152,150 Q148,160 135,155 Q130,145 140,130 Z" />
+    
+    <!-- Dress ruffles -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M70,180 Q80,175 90,180 Q100,175 110,180 Q120,175 130,180 Q125,185 115,185 Q105,185 95,185 Q85,185 75,185 Q70,185 70,180 Z" />
+</vector>

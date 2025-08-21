@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Wardrobe Choices</string>
+    
+    <!-- Gender Selection -->
+    <string name="girl">Girl</string>
+    <string name="boy">Boy</string>
+    
+    <!-- Categories -->
+    <string name="face">Face</string>
+    <string name="hair">Hair</string>
+    <string name="eyes">Eyes</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="shoes">Shoes</string>
+    <string name="hat">Hat</string>
+    <string name="accessory">Accessory</string>
+    <string name="pet">Pet</string>
+    <string name="background">Background</string>
+    
+    <!-- UI Labels -->
+    <string name="categories">Categories</string>
+    <string name="items">Items</string>
+    <string name="character_preview">Character Preview</string>
+    
+    <!-- Messages -->
+    <string name="item_locked">This item is locked</string>
+    <string name="unlock_level">Unlock at level %d</string>
+</resources>

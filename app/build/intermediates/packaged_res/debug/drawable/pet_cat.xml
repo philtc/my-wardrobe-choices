@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    
+    <!-- Cute cat -->
+    <!-- Body -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M22,50 A18,12 0 1,1 58,50 A18,12 0 1,1 22,50 Z" />
+    
+    <!-- Head -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M30,30 A10,10 0 1,1 50,30 A10,10 0 1,1 30,30 Z" />
+    
+    <!-- Ears -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M32,22 L36,30 L28,28 Z" />
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M48,22 L52,28 L44,30 Z" />
+    
+    <!-- Inner ears -->
+    <path
+        android:fillColor="#FFB347"
+        android:pathData="M33,24 L35,28 L30,27 Z" />
+    <path
+        android:fillColor="#FFB347"
+        android:pathData="M47,24 L50,27 L45,28 Z" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#32CD32"
+        android:pathData="M34,28 A2,3 0 1,1 38,28 A2,3 0 1,1 34,28 Z" />
+    <path
+        android:fillColor="#32CD32"
+        android:pathData="M42,28 A2,3 0 1,1 46,28 A2,3 0 1,1 42,28 Z" />
+    
+    <!-- Pupils -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M35.5,28 A0.5,2 0 1,1 36.5,28 A0.5,2 0 1,1 35.5,28 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M43.5,28 A0.5,2 0 1,1 44.5,28 A0.5,2 0 1,1 43.5,28 Z" />
+    
+    <!-- Nose -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M40,32 L38,34 L42,34 Z" />
+    
+    <!-- Whiskers -->
+    <path
+        android:pathData="M25,30 L35,32 M25,32 L35,33 M25,34 L35,34"
+        android:strokeWidth="1"
+        android:strokeColor="#000000" />
+    <path
+        android:pathData="M45,32 L55,30 M45,33 L55,32 M45,34 L55,34"
+        android:strokeWidth="1"
+        android:strokeColor="#000000" />
+    
+    <!-- Tail -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M55,48 Q65,45 62,55 Q58,65 55,55 Q55,50 55,48 Z" />
+    
+    <!-- Stripes -->
+    <path
+        android:pathData="M35,45 Q40,43 45,45"
+        android:strokeWidth="2"
+        android:strokeColor="#FF8C00" />
+    <path
+        android:pathData="M36,52 Q40,50 44,52"
+        android:strokeWidth="2"
+        android:strokeColor="#FF8C00" />
+</vector>

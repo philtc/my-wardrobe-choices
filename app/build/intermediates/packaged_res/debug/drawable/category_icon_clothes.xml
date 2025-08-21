@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Clothes icon (shirt) -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M16,12 Q24,10 32,12 L34,20 Q32,22 30,20 L30,35 Q24,37 18,35 L18,20 Q16,22 14,20 Z" />
+    
+    <!-- Collar -->
+    <path
+        android:fillColor="#1E90FF"
+        android:pathData="M18,12 Q24,10 30,12 Q28,15 24,16 Q20,15 18,12 Z" />
+    
+    <!-- Sleeves -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M12,15 Q10,18 12,25 Q16,22 14,20 Z" />
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M36,15 Q38,18 36,25 Q32,22 34,20 Z" />
+</vector>

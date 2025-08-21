@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Baseball cap -->
+    <!-- Cap crown -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M70,40 Q100,30 130,40 Q135,60 130,80 Q100,90 70,80 Q65,60 70,40 Z" />
+    
+    <!-- Cap visor -->
+    <path
+        android:fillColor="#CC0000"
+        android:pathData="M70,70 Q85,65 100,70 Q115,65 130,70 Q140,75 135,80 Q100,85 65,80 Q60,75 70,70 Z" />
+    
+    <!-- Cap button -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M97,55 A3,3 0 1,1 103,55 A3,3 0 1,1 97,55 Z" />
+</vector>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Blue jeans -->
+    <path
+        android:fillColor="#4682B4"
+        android:pathData="M80,170 Q100,165 120,170 L125,240 Q100,245 75,240 Z" />
+    
+    <!-- Jeans details -->
+    <path
+        android:fillColor="#2F4F4F"
+        android:pathData="M85,180 L115,180 M85,200 L115,200" 
+        android:strokeWidth="1"
+        android:strokeColor="#2F4F4F" />
+    
+    <!-- Pockets -->
+    <path
+        android:fillColor="#5F9EA0"
+        android:pathData="M85,185 Q90,180 95,185 Q90,195 85,185 Z" />
+    <path
+        android:fillColor="#5F9EA0"
+        android:pathData="M105,185 Q110,180 115,185 Q110,195 105,185 Z" />
+</vector>

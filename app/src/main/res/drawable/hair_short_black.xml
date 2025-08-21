@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Short black hair (positioned behind face) -->
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M60,30 Q75,20 90,25 Q110,20 125,25 Q140,30 145,50 Q142,70 135,85 Q125,100 115,105 Q100,110 85,105 Q75,100 65,85 Q58,70 55,50 Q55,30 60,30 Z" />
+    
+    <!-- Hair texture (not over face) -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M70,35 Q80,40 90,35 Q100,40 110,35 Q120,40 130,35" 
+        android:strokeWidth="1"
+        android:strokeColor="#000000" />
+    
+    <!-- Side hair definition -->
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M60,45 Q65,55 70,70 Q75,85 80,95" 
+        android:strokeWidth="2"
+        android:strokeColor="#1A1A1A" />
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M140,45 Q135,55 130,70 Q125,85 120,95" 
+        android:strokeWidth="2"
+        android:strokeColor="#1A1A1A" />
+</vector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style colorful shirt -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M78,125 Q100,120 122,125 Q125,140 125,155 Q125,170 122,185 Q100,190 78,185 Q75,170 75,155 Q75,140 78,125 Z" />
+    
+    <!-- Fun star pattern -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M90,145 L92,150 L97,150 L93,153 L95,158 L90,155 L85,158 L87,153 L83,150 L88,150 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M110,160 L112,165 L117,165 L113,168 L115,173 L110,170 L105,173 L107,168 L103,165 L108,165 Z" />
+    
+    <!-- Collar with cute design -->
+    <path
+        android:fillColor="#1E90FF"
+        android:pathData="M85,125 Q100,120 115,125 Q112,130 100,135 Q88,130 85,125 Z" />
+    
+    <!-- Rounded sleeves -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M62,130 Q52,135 50,150 Q54,165 67,160 Q72,145 62,130 Z" />
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M138,130 Q148,135 150,150 Q146,165 133,160 Q128,145 138,130 Z" />
+</vector>

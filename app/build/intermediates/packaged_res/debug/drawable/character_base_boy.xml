@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style character base B -->
+    <!-- Head (rounder, slightly different proportions) -->
+    <path
+        android:fillColor="#FFDBAC"
+        android:pathData="M70,48 Q100,28 130,48 Q145,78 135,108 Q115,130 100,130 Q85,130 65,108 Q55,78 70,48 Z" />
+    
+    <!-- Cheeks (rosy) -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M78,88 Q83,83 88,88 Q83,98 78,88 Z" />
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M112,88 Q117,83 122,88 Q117,98 112,88 Z" />
+    
+    <!-- Body (slightly different shape) -->
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M78,125 Q100,120 122,125 Q127,140 125,160 Q122,180 118,200 Q100,208 82,200 Q78,180 75,160 Q73,140 78,125 Z" />
+    
+    <!-- Arms (rounder) -->
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M62,135 Q47,145 44,165 Q47,175 62,165 Q67,150 62,135 Z" />
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M138,135 Q153,145 156,165 Q153,175 138,165 Q133,150 138,135 Z" />
+    
+    <!-- Legs (cute proportions) -->
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M87,200 Q84,215 87,235 Q90,250 94,235 Q97,215 94,200 Z" />
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M106,200 Q103,215 106,235 Q110,250 113,235 Q116,215 113,200 Z" />
+</vector>

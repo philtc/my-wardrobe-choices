@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="300dp"
+    android:viewportWidth="400"
+    android:viewportHeight="300">
+    
+    <!-- Park background -->
+    <!-- Sky -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M0,0 L400,0 L400,200 L0,200 Z" />
+    
+    <!-- Clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,50 A20,20 0 1,1 100,50 A20,20 0 1,1 60,50 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,45 A25,25 0 1,1 125,45 A25,25 0 1,1 75,45 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M302,60 A18,18 0 1,1 338,60 A18,18 0 1,1 302,60 Z" />
+    
+    <!-- Ground -->
+    <path
+        android:fillColor="#90EE90"
+        android:pathData="M0,200 L400,200 L400,300 L0,300 Z" />
+    
+    <!-- Trees -->
+    <!-- Tree 1 trunk -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M50,120 L65,120 L65,200 L50,200 Z" />
+    <!-- Tree 1 leaves -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M27,110 A30,30 0 1,1 87,110 A30,30 0 1,1 27,110 Z" />
+    
+    <!-- Tree 2 trunk -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M300,130 L312,130 L312,200 L300,200 Z" />
+    <!-- Tree 2 leaves -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M281,120 A25,25 0 1,1 331,120 A25,25 0 1,1 281,120 Z" />
+    
+    <!-- Bench -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M180,180 L240,180 L240,188 L180,188 Z" />
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M185,170 L190,170 L190,188 L185,188 Z" />
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M230,170 L235,170 L235,188 L230,188 Z" />
+    
+    <!-- Flowers -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M147,220 A3,3 0 1,1 153,220 A3,3 0 1,1 147,220 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M157,225 A3,3 0 1,1 163,225 A3,3 0 1,1 157,225 Z" />
+    <path
+        android:fillColor="#FF1493"
+        android:pathData="M267,215 A3,3 0 1,1 273,215 A3,3 0 1,1 267,215 Z" />
+</vector>

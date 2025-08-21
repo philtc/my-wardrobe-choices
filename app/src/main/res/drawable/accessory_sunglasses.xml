@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Sunglasses -->
+    <!-- Frame -->
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M75,75 Q85,70 95,75 Q105,70 115,75 Q125,75 125,85 Q115,90 105,85 Q95,90 85,85 Q75,90 75,85 Q75,75 75,75 Z" />
+    
+    <!-- Left lens -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M78,78 Q88,73 93,78 Q88,88 78,83 Z" />
+    
+    <!-- Right lens -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M107,78 Q117,73 122,78 Q117,88 107,83 Z" />
+    
+    <!-- Bridge -->
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M93,78 Q100,76 107,78"
+        android:strokeWidth="2"
+        android:strokeColor="#2F2F2F" />
+</vector>

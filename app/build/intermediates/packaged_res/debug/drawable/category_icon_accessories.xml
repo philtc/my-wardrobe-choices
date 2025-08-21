@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Accessories icon (sunglasses) -->
+    <path
+        android:fillColor="#2F2F2F"
+        android:pathData="M12,20 Q18,18 22,20 Q26,18 32,20 Q36,20 36,24 Q32,26 26,24 Q22,26 18,24 Q12,26 12,24 Q12,20 12,20 Z" />
+    
+    <!-- Left lens -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M13,22 A4,4 0 1,1 21,22 A4,4 0 1,1 13,22 Z" />
+    
+    <!-- Right lens -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M27,22 A4,4 0 1,1 35,22 A4,4 0 1,1 27,22 Z" />
+    
+    <!-- Bridge -->
+    <path
+        android:pathData="M21,22 Q24,21 27,22"
+        android:strokeWidth="2"
+        android:strokeColor="#2F2F2F" />
+</vector>

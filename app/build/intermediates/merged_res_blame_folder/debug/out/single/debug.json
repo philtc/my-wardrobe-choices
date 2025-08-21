@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_character_base_boy.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/character_base_boy.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_hair_pixar_curly.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/hair_pixar_curly.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/layout_item_category.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/layout/item_category.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_category_icon_accessories.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/category_icon_accessories.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_shoes_pixar_sneakers.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/shoes_pixar_sneakers.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_hair_pixar_wavy.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/hair_pixar_wavy.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_top_pink_dress.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/top_pink_dress.xml"
+    },
+    {
+        "merged": "com.mywardrobechoices.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.mywardrobechoices.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_bottom_blue_jeans.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/bottom_blue_jeans.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_hair_long_brown.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/hair_long_brown.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_category_icon_face.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/category_icon_face.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_hair_short_black.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/hair_short_black.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_pet_cat.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/pet_cat.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_shoes_sneakers.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/shoes_sneakers.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_category_icon_hair.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/category_icon_hair.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_pet_dog.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/pet_dog.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/color_category_text_selector.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/color/category_text_selector.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_accessory_sunglasses.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/accessory_sunglasses.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_character_base_girl.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/character_base_girl.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_hat_baseball_cap.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/hat_baseball_cap.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_eyes_pixar_blue.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/eyes_pixar_blue.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_background_beach.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/background_beach.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_category_icon_clothes.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/category_icon_clothes.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_eyes_brown.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/eyes_brown.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_top_blue_shirt.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/top_blue_shirt.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/layout_item_wardrobe.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/layout/item_wardrobe.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_top_pixar_rainbow.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/top_pixar_rainbow.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_eyes_pixar_green.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/eyes_pixar_green.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_background_park.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/background_park.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-merged_res-38:/drawable_item_background.xml.flat",
+        "source": "/home/phil/.gradle/daemon/9.0-milestone-1/com.mywardrobechoices.app-main-40:/drawable/item_background.xml"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style rainbow shirt -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,125 Q100,120 122,125 Q125,140 125,155 Q125,170 122,185 Q100,190 78,185 Q75,170 75,155 Q75,140 78,125 Z" />
+    
+    <!-- Rainbow stripes -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M80,135 Q100,132 120,135 Q118,142 100,145 Q82,142 80,135 Z" />
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M80,145 Q100,142 120,145 Q118,152 100,155 Q82,152 80,145 Z" />
+    <path
+        android:fillColor="#FFFF00"
+        android:pathData="M80,155 Q100,152 120,155 Q118,162 100,165 Q82,162 80,155 Z" />
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="M80,165 Q100,162 120,165 Q118,172 100,175 Q82,172 80,165 Z" />
+    <path
+        android:fillColor="#0000FF"
+        android:pathData="M80,175 Q100,172 120,175 Q118,182 100,185 Q82,182 80,175 Z" />
+    
+    <!-- Cute cloud decoration -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,140 Q88,138 91,140 Q94,138 97,140 Q95,145 91,143 Q88,145 85,140 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M105,170 Q108,168 111,170 Q114,168 117,170 Q115,175 111,173 Q108,175 105,170 Z" />
+    
+    <!-- Sleeves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,130 Q52,135 50,150 Q54,165 67,160 Q72,145 62,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M138,130 Q148,135 150,150 Q146,165 133,160 Q128,145 138,130 Z" />
+</vector>

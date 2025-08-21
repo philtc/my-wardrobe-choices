@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Face icon -->
+    <path
+        android:fillColor="#FFE4C4"
+        android:pathData="M6,24 A18,18 0 1,1 42,24 A18,18 0 1,1 6,24 Z" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M16,20 A2,2 0 1,1 20,20 A2,2 0 1,1 16,20 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M28,20 A2,2 0 1,1 32,20 A2,2 0 1,1 28,20 Z" />
+    
+    <!-- Nose -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M23,26 A1,1 0 1,1 25,26 A1,1 0 1,1 23,26 Z" />
+    
+    <!-- Mouth -->
+    <path
+        android:pathData="M20,30 Q24,34 28,30"
+        android:strokeWidth="2"
+        android:strokeColor="#FF69B4"
+        android:fillColor="#00000000" />
+</vector>

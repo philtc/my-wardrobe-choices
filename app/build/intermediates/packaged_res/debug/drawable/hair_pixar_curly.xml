@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style curly hair (behind face) -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M50,30 Q65,20 80,30 Q85,25 90,30 Q95,20 100,30 Q105,25 110,30 Q125,20 140,30 Q150,45 148,70 Q145,95 140,120 Q135,145 125,170 Q115,195 105,170 Q95,145 85,120 Q80,95 77,70 Q75,45 50,30 Z" />
+    
+    <!-- Curly details -->
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M65,45 Q70,40 75,45 Q70,55 65,45 Z" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M85,40 Q90,35 95,40 Q90,50 85,40 Z" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M105,40 Q110,35 115,40 Q110,50 105,40 Z" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M125,45 Q130,40 135,45 Q130,55 125,45 Z" />
+    
+    <!-- More curls -->
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M75,65 Q80,60 85,65 Q80,75 75,65 Z" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M115,65 Q120,60 125,65 Q120,75 115,65 Z" />
+</vector>

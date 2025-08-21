@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M0,36 A36,36 0 1,1 72,36 A36,36 0 1,1 0,36 Z" />
+    
+    <!-- Character silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,20 Q36,15 46,20 Q50,30 46,40 Q36,45 26,40 Q22,30 26,20 Z" />
+    
+    <!-- Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,42 Q36,40 44,42 L45,60 Q36,62 27,60 Z" />
+    
+    <!-- Dress -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M27,42 Q36,40 45,42 Q46,47 47,52 Q48,57 49,62 Q36,64 23,62 Q24,57 25,52 Q26,47 27,42 Z" />
+</vector>

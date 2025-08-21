@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+    
+    <!-- Pixar-style cute sneakers -->
+    <!-- Left shoe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,250 Q85,245 95,250 Q100,260 95,270 Q85,275 70,270 Q65,260 70,250 Z" />
+    <!-- Colorful accents -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M72,252 Q85,248 93,252 Q90,262 85,260 Q80,262 72,252 Z" />
+    <!-- Star decoration -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M82,258 L84,263 L89,263 L85,266 L87,271 L82,268 L77,271 L79,266 L75,263 L80,263 Z" />
+    
+    <!-- Right shoe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M105,250 Q120,245 130,250 Q135,260 130,270 Q120,275 105,270 Q100,260 105,250 Z" />
+    <!-- Colorful accents -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M107,252 Q120,248 128,252 Q125,262 120,260 Q115,262 107,252 Z" />
+    <!-- Heart decoration -->
+    <path
+        android:fillColor="#FF1493"
+        android:pathData="M115,258 Q112,255 109,258 Q112,265 117,268 Q122,265 125,258 Q122,255 119,258 Q117,262 115,258 Z" />
+    
+    <!-- Cute laces with bows -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M80,254 Q82,252 84,254 Q82,256 80,254 Z" />
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M86,254 Q88,252 90,254 Q88,256 86,254 Z" />
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M115,254 Q117,252 119,254 Q117,256 115,254 Z" />
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M121,254 Q123,252 125,254 Q123,256 121,254 Z" />
+</vector>
